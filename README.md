@@ -8,7 +8,6 @@ This repository contains the final project for the *Machine Learning for Human D
 
 ##  Project Structure
 ```
-├── data/ # Contains 64x64 and 128x128 .npz datasets
 ├── models/ # Model definitions (Baseline CNN, U-Net encoder)
 ├── notebooks/ # Jupyter/Colab notebooks
 ├── results/ # Plots, confusion matrices, model summaries
