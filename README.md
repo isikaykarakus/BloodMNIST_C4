@@ -47,7 +47,7 @@ This repository contains the final project for the *Machine Learning for Human D
 ## How to Run
 Open in **Google Colab**:
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)]([https://colab.research.google.com/github/isikaykarakus/BloodMNIST_C4/blob/main/notebooks/bloodmnist_main.ipynb](https://colab.research.google.com/drive/1h9BRGG5LXs4-4bFlz_fW9WpD_VR7FGFf#scrollTo=BViuHkhlCEir))
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)]([[https://colab.research.google.com/github/isikaykarakus/BloodMNIST_C4/blob/main/notebooks/bloodmnist_main.ipynb]](https://colab.research.google.com/drive/1h9BRGG5LXs4-4bFlz_fW9WpD_VR7FGFf#scrollTo=7-PLkEVF_Ynu)(https://colab.research.google.com/drive/1h9BRGG5LXs4-4bFlz_fW9WpD_VR7FGFf#scrollTo=BViuHkhlCEir))
 
 Or run locally:
 ```bash
